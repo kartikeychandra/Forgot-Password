@@ -1,0 +1,121 @@
+.footer{
+    top: 90%;
+    /* padding: 1rem; */
+    background-color: #2180B3;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 200px;
+    height: 138px;
+}
+
+.about-us{
+    /* position: static; */
+    width: 108px;
+    height: 36px;
+    left: 200px;
+    top: 40px;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+
+    /* Secondary Button */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 49px;
+}
+.privacy-policy{
+    width: 200px;
+    height: 36px;
+    left: 400px;
+    top: 40px;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+
+    /* Secondary Button */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 49px;
+}
+.tutorials{
+    width: 200px;
+    height: 36px;
+    left: 600px;
+    top: 40px;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+
+    /* Secondary Button */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 49px;
+}
+.terms{
+    width: 200px;
+    height: 36px;
+    left: 800px;
+    top: 40px;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 36px */
+
+
+    /* Secondary Button */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 49px;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../font/Avenir Next/Bold.otf');
+}

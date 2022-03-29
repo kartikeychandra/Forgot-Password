@@ -1,0 +1,64 @@
+.navbar-light{
+    background-color: #33A0D9;
+}
+.btn{
+    position: absolute;
+    left: 87.15%;
+    right: 2.85%;
+    top: 24.04%;
+    bottom: 24.04%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+/* or 36px */
+
+    text-align: center;
+}
+.nav-link{
+    position: absolute;
+    left: 54.1%;
+    right: 34.51%;
+    top: 28%;
+    bottom: 34.62%;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
+
+    text-align: center;
+
+    /* Button */
+
+    color: #000000;
+}
+.leaderboard{
+    position: absolute;
+    left: 70.76%;
+    right: 18.12%;
+    top: 28%;
+    bottom: 34.62%;
+
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
+
+    text-align: center;
+
+    /* Button */
+
+    color: #000000;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../font/Avenir Next/Bold.otf');
+}
